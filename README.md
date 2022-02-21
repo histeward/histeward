@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine learning and computer vision
 - 🌱 I’m currently learning Python, Tensorflow, Seaborn, Matplotlib, R and SQL
 - 💞️ I’m looking to collaborate on Projects related to improving computer vision
-- 📫 How to reach me send me a DM on instagram urs. name: @histeward
+- 📫 How to reach me send me a DM on instagram usr. name: @histeward
 
 <!---
 histeward/histeward is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
