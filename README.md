@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @histeward
-- 👀 I’m interested in Machine learning and computer vision
-- 🌱 I’m currently learning Python, Tensorflow, Seaborn, Matplotlib, R and SQL
-- 💞️ I’m looking to collaborate on Projects related to improving computer vision
+## This is me :)
+
+- 👋 Hi, I’m @histeward (stew)
+- 👀 I’m interested in Machine learning and computer vision just what AI can do is just so cool!!
+- 💍 I’m currently in a forever learningprocess with Python, neural networks, Seaborn, Matplotlib, R, SQL
+- 💞️ I’m looking to collaborate on Projects related to computer vision
 - 📫 How to reach me send me a DM on instagram usr. name: @histeward
 
 <!---
