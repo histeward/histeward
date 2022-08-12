@@ -4,9 +4,10 @@ Hi! Stew here 🍲
 
 Used to make pictures for a living and now I'm here aspiring to be a part of tech and innovation.
 
-Wanna see what some of my photos?
+Wanna see some photos about the making of the divine waters that flow through our veins?
 
-<img src="https://scontent-ams4-1.cdninstagram.com/v/t51.2885-15/285522469_1192419378226239_950015422791601479_n.jpg?stp=dst-jpg_e35&_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_cat=103&_nc_ohc=0XNUM0Z_1kIAX_izmbh&edm=ALQROFkBAAAA&ccb=7-5&ig_cache_key=Mjg1MzgzODM0Mzc1MTk5MzY5NA%3D%3D.2-ccb7-5&oh=00_AT-3CmcUTxuCZVBf1LoMEo1_UqfuklK3HBQDYNzeCgOQxQ&oe=62FE3EFF&_nc_sid=30a2ef">
+<img src="https://scontent-ams2-1.cdninstagram.com/v/t51.2885-15/281413117_3733422966881514_3403641955674713359_n.jpg?stp=dst-jpg_e35_p640x640_sh0.08&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=106&_nc_ohc=vzjJPWNOJiEAX_dfYuQ&edm=ALQROFkBAAAA&ccb=7-5&ig_cache_key=Mjg0MDEyNjc2MTIzMDA3MjQ5Mg%3D%3D.2-ccb7-5&oh=00_AT-BuEi7jcic9S4p7eqocg8zUnrjoXZMsgpuqmgtfUpn0A&oe=62FCA834&_nc_sid=30a2ef">
+<img src="https://scontent-ams4-1.cdninstagram.com/v/t51.2885-15/281336089_537424407986055_7184494560776344214_n.jpg?stp=dst-jpg_e35_p640x640_sh0.08&_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_cat=103&_nc_ohc=L3nIfen4Cz8AX9WVjeO&edm=ALQROFkBAAAA&ccb=7-5&ig_cache_key=Mjg0MDEyNjQ3NDAzNzU5ODAwOQ%3D%3D.2-ccb7-5&oh=00_AT8FUxq2lTiyBcY6q7EAc5U3Rm0MPJN17AFQhn1o0NpPcg&oe=62FDF370&_nc_sid=30a2ef">
 
 <!---
 histeward/histeward is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
