@@ -15,7 +15,7 @@ The tech field was way too big and I had a hard time finding a point of focus to
 <!---
 youtube link goes in here which should be unlinked
 --->           
-[![IMAGE ALT TEXT HERE](https://youtu.be/tPs0HWYWFD8)](https://youtu.be/tPs0HWYWFD8)
+[![IMAGE ALT TEXT HERE](https://img.youtu.be/vo/tPs0HWYWFD8/0.jpg)](https://youtu.be/tPs0HWYWFD8)
 <!---
 histeward/histeward is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
