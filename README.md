@@ -4,7 +4,7 @@ Hi! Stew here 🍲
 
 I used to make pictures for a living and now I'm here aspiring to be a part of tech and innovation.
 
-hen I was 12 years old I got my first experience with a computer. Because youtube existed already back then, I learned how to do cool stuff with bash making a cool matrix script or using the command line to remotely shutdown a pc in the same network with a scary message pretending to be a ghost🤣 Meanwhile i picked up html css to make basic websites. sadly I haven't done much after since it was not well encouraged back in middle school. After that most of my life was dedicated towards exercise and health.
+When I was 12 years old I got my first experience with a computer. Because youtube existed already back then, I learned how to do cool stuff with bash making a cool matrix script or using the command line to remotely shutdown a pc in the same network with a scary message pretending to be a ghost🤣 Meanwhile i picked up html css to make basic websites. sadly I haven't done much after since it was not well encouraged back in middle school. After that most of my life was dedicated towards exercise and health.
 <details>
 <summary><h5>More about me</h5></summary>
 
