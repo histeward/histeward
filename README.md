@@ -13,16 +13,8 @@ Eventually I was also pursuing a career of making videos and photos for online m
 
 The tech field was way too big and I had a hard time finding a point of focus to further develop my skills. After a lot of trial and error I settled down playing with data and application development. I still did not know for sure what to focus on because I did not have the opportunity yet to cultivate the skills I built until now in a professional environment.
 
-<!---
-[![THIS IS A VIDEO](https://i9.ytimg.com/vi/tPs0HWYWFD8/mq2.jpg?sqp=CKizkJoG&rs=AOn4CLBMQgYYrQNg31Vp7ZK-GicFe2yiSA)](https://youtu.be/tPs0HWYWFD8)
---->           
-
-<!---
-histeward/histeward is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-  ### 🧰 Languages and Tools
+</details>
+### 🧰 Languages and Tools
 
 
 
@@ -42,3 +34,14 @@ You can click the Preview link to take a look at your changes.
 
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
+
+
+<!---
+[![THIS IS A VIDEO](https://i9.ytimg.com/vi/tPs0HWYWFD8/mq2.jpg?sqp=CKizkJoG&rs=AOn4CLBMQgYYrQNg31Vp7ZK-GicFe2yiSA)](https://youtu.be/tPs0HWYWFD8)
+--->           
+
+<!---
+histeward/histeward is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
