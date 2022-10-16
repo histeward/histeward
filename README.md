@@ -1,5 +1,7 @@
 ## This is me :)
 
+**`Human (Sporty | Into Filmmaking | Likes Photography | Loves Building Things)`**
+
 Hi! Stew here 🍲
 <details>
 <summary><h5>Expand to read more about me</h5></summary>
