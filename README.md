@@ -1,13 +1,11 @@
 ## This is me :)
 
 Hi! Stew here 🍲
-
-<summary><h5>More about me</h5></summary>
+<details>
+<summary><h5>Expand to read more about me</h5></summary>
 I used to make pictures for a living and now I'm here aspiring to be a part of tech and innovation.
 
 When I was 12 years old I got my first experience with a computer. Because youtube existed already back then, I learned how to do cool stuff with bash making a cool matrix script or using the command line to remotely shutdown a pc in the same network with a scary message pretending to be a ghost😅 Meanwhile I picked up html css to make basic websites. sadly I haven't done much after since it was not well encouraged back in middle school. After that most of my life was dedicated towards exercise and health.
-<details>
-
 
 Because of my interest in exercise and health, I started studying biomechanical engineering in uni. That's where I picked up matlab and further started to explore into programming languages again. Eventually I picked up python because I could do analysis with it same as matlab. And it was free. Eventually I transferred to Mechanical engineering as a major. That's when I further got into math and physics. When we had a project where we had to use recursive equations to get a value that dictated our design. This was for our scaled down static construction crane project. It got so tedious that using python to do it for us was like the ultimate tool for laziness hahaha. It came in handy for future projects in the same format.
 
