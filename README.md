@@ -4,7 +4,7 @@
 
 Hi! Stew here 🍲
 <details>
-<summary><h5>Expand to read more about me</h5></summary>
+<summary><h4>Expand to read more about me</h4></summary>
 I used to make pictures for a living and now I'm here aspiring to be a part of tech and innovation.
 
 When I was 12 years old I got my first experience with a computer. Because youtube existed already back then, I learned how to do cool stuff with bash making a cool matrix script or using the command line to remotely shutdown a pc in the same network with a scary message pretending to be a ghost😅 Meanwhile I picked up html css to make basic websites. sadly I haven't done much after since it was not well encouraged back in middle school. After that most of my life was dedicated towards exercise and health.
@@ -24,7 +24,7 @@ The tech field was way too big and I had a hard time finding a point of focus to
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-<img align="left" alt="Flask" width="30px" style="padding-right:10px; color:white;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
+<img align="left" alt="Flask" width="30px" style="padding-right:10px; color:white;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
