@@ -14,7 +14,8 @@ Eventually I was also pursuing a career of making videos and photos for online m
 The tech field was way too big and I had a hard time finding a point of focus to further develop my skills. After a lot of trial and error I settled down playing with data and application development. I still did not know for sure what to focus on because I did not have the opportunity yet to cultivate the skills I built until now in a professional environment.
 
 </details>
-###🧰 Languages and Tools
+
+## 🧰 Languages and Tools
 
 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
