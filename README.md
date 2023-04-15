@@ -9,23 +9,31 @@ I used to make pictures for a living and now I'm here aspiring to be a part of t
 
 When I was 12 years old I got my first experience with a computer. Because youtube existed already back then, I learned how to do cool stuff with bash making a cool matrix script or using the command line to remotely shutdown a pc in the same network with a scary message pretending to be a ghost😅 Meanwhile I picked up html css to make basic websites. sadly I haven't done much after since it was not well encouraged back in middle school. After that most of my life was dedicated towards exercise and health.
 
-Because of my interest in exercise and health, I started studying biomechanical engineering in uni. That's where I picked up matlab and further started to explore into programming languages again. Eventually I picked up python because I could do analysis with it same as matlab. And it was free. Eventually I transferred to Mechanical engineering as a major. That's when I further got into math and physics. When we had a project where we had to use recursive equations to get a value that dictated our design. This was for our scaled down static construction crane project. It got so tedious that using python to do it for us was like the ultimate tool for laziness hahaha. It came in handy for future projects in the same format.
-
-Eventually I was also pursuing a career of making videos and photos for online marketing purposes for companies that wanted to expand their reach on the internet. It became a pretty big thing over the years and it motivated me to keep on pursuing this career path. Until the pandemic came around and everything just stopped. I dropped out of my bachelors, I was just clueless on what to do. Then I messed around again with programming and followed a lot of tutorials on youtube, online courses on udemy and playing around with what I learned. I started building basic websites again and learned a bit about back end with python and flask. 
-
-The tech field was way too big and I had a hard time finding a point of focus to further develop my skills. After a lot of trial and error I settled down playing with data and application development. I still did not know for sure what to focus on because I did not have the opportunity yet to cultivate the skills I built until now in a professional environment.
+Nowadays I enjoy building things. Not many end up omy github page because I tend to spaghetti code it until i refactor the code. I only refactor it when I thik the purpose of the code is worth it. When I think I'm getting good in coding I feel like a complete beginner due to a neverending supply of information and new methods of implementing. Where I do feel intermediate in is the will-power to grind through the same file a 100 times just to find and correct a bracket or a zero-width space.
+  
+The worst bug is when the code has no errors but still doesn't work hahahahaha!
 
 </details>
 
 ### 🧰 Languages and Tools
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+
+<img align="left" alt="Typescript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/typescript.svg" />
+
+<img align="left" alt="Postgres" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+
 <img align="left" alt="Flask" width="30px" style="padding-right:10px; color:white;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
+
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
