@@ -4,11 +4,7 @@
 
 <details>
 
-
-<summary style="background: #004970; padding: 10px; border-radius: 10px; margin-bottom: 10px; font-weight: bold;">Expand to read more</summary>
-
-
-<div style="background: #004970; padding: 20px; border-radius: 10px;">
+<summary>Expand to read more</summary>
 
 I used to make pictures for a living and now I'm here aspiring to be a part of tech and innovation.
 
@@ -31,23 +27,11 @@ find and correct a bracket or a zero-width space.
 
 The worst bug is when the code has no errors but still doesn't work hahahahaha!
 
-</div>
-
 </details>
 
 <hr>
 
-<div style="background: #004970; padding: 5px; border-radius: 10px; display: grid; place-content: center;">
-
-<div>
-
-<h4 style="text-align: center;">Languages and tools</h4>
-
-</div>
-
-
-<div style="padding: 5px; border-radius: 10px; display: flex; justify-content:
-center;">
+#### Languages and tools
 
 <img align="left" alt="Git" width="40px" style="padding-right:10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -64,9 +48,6 @@ center;">
 <img align="left" alt="Python" width="40px" style="padding-right:10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 
-<img align="left" alt="Typescript" width="40px" style="padding-right:10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript.svg" />
-
 <img align="left" alt="Postgres" width="40px" style="padding-right:10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 
@@ -79,10 +60,6 @@ center;">
 <img align="left" alt="Bash" width="40px" style="padding-right:10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
-
-<div />
-
-<div />
 
 
 <!---
