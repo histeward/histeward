@@ -25,7 +25,7 @@ implementing. Where I do feel intermediate in is the will-power to grind through
 to
 find and correct a bracket or a zero-width space.
 
-The worst bug is when the code has no errors but still doesn't work hahahahaha!
+The worst bug is when the program compiles but still doesn't work hahahahaha!
 
 </details>
 
