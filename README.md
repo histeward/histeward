@@ -6,7 +6,7 @@
 
 <summary>Expand to read more</summary>
 
-I used to make pictures for a living and now I'm here aspiring to be a part of tech and innovation.
+I used to ve a photographer for a living and now I'm here aspiring to be a part of tech and innovation.
 
 When I was 12 years old I got my first experience with a computer. Because youtube existed already back then, I
 learned how to do cool stuff with bash making a cool matrix script or using the command line to remotely
@@ -17,15 +17,7 @@ websites. sadly I haven't done much after since it was not well encouraged back 
 most of
 my life was dedicated towards exercise and health.
 
-Nowadays I enjoy building things. Not many end up omy github page because I tend to spaghetti code it until i
-refactor the code. I only refactor it when I thik the purpose of the code is worth it. When I think I'm getting
-good
-in coding I feel like a complete beginner due to a neverending supply of information and new methods of
-implementing. Where I do feel intermediate in is the will-power to grind through the same file a 100 times just
-to
-find and correct a bracket or a zero-width space.
-
-The worst bug is when the program compiles but still doesn't work hahahahaha!
+Nowadays I enjoy building things.
 
 </details>
 
