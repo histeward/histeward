@@ -14,7 +14,12 @@ websites. sadly I haven't done much after since it was not well encouraged back 
 most of
 my life was dedicated towards exercise and health.
 
-Nowadays I enjoy building things.
+Nowadays I enjoy building things again.
+
+Status quo:
+
+I like Sveltekit if it comes to JS frameworks. Now I prefer using Golang and the echo framework. Recently I discovered Templ which is a great templating system in golang with great tooling.
+
 
 <hr>
 
