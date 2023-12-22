@@ -2,11 +2,8 @@
 
 **`Human • Sporty • Into Filmmaking • Likes Photography • Like Building Things`**
 
-<details>
 
-<summary>Expand to read more</summary>
-
-I used to ve a photographer for a living and now I'm here aspiring to be a part of tech and innovation.
+I used to be a photographer for a living and now I'm here aspiring to be a part of tech and innovation.
 
 When I was 12 years old I got my first experience with a computer. Because youtube existed already back then, I
 learned how to do cool stuff with bash making a cool matrix script or using the command line to remotely
@@ -18,8 +15,6 @@ most of
 my life was dedicated towards exercise and health.
 
 Nowadays I enjoy building things.
-
-</details>
 
 <hr>
 
